@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676553665474",
+    "project_id": "audiopdf-aa789",
+    "storage_bucket": "audiopdf-aa789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676553665474:android:aa989ea3f95cdb08e8045b",
+        "android_client_info": {
+          "package_name": "com.glcod.audiopdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676553665474-5lcase38t23a82fdm5f1a63m40kg31cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4KdYvgRTWP9hd5ABhhHjLmwBtWHkxT2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676553665474-5lcase38t23a82fdm5f1a63m40kg31cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
